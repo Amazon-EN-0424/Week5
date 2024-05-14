@@ -94,7 +94,7 @@
   - Print the word frequencies.
   - Print the uniques words.
 
-  ```
+``` text
 Far out in the uncharted backwaters of the unfashionable end of the western spiral arm of the Galaxy
 lies a small unregarded yellow sun.
 Orbiting this at a distance of roughly ninety-two million miles is an utterly insignificant little blue green
@@ -109,7 +109,7 @@ ones with digital watches.
 Many were increasingly of the opinion that they'd all made a big mistake in coming down from the trees
 in the first place. And some said that even the trees had been a bad move, and that no one should ever have
 left the oceans. 
-  ```
+```
 
 ### 💡 Discussion
 - Discuss the differences between HashMap and HashSet and when to use each one.
